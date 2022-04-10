@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "title":"Bliss",
+        "img":"https://www.socialnews.xyz/wp-content/uploads/2021/02/05/bliss-review-owen-wilson-and-salma-hayeks-freaky-journey-is-not-a-bliss.jpg",
+        "description":"An unfulfilled man and a mysterious woman believe they are living in a simulated reality, but when their newfound .Bliss world begins to bleed into the ugly world, they must decide what's real and where they truly belong ."
+    },
+    {
+        "id":2,
+        "title":"Space Sweepers",
+        "img":"https://i0.wp.com/www.seriezloaded.com.ng/wp-content/uploads/2021/02/wp-1612642490121.jpg?fit=720%2C1079&ssl=1",
+        "description":"After snatching a crashed space shuttle in the latest debris chase, Spaceship Victory's crew members find a 7-year-old girl inside. They realise that she's the humanlike robot wanted by UTS Space Guards, and decide to demand a ransom in exchange."
+    },
+    {
+        "id":3,
+        "title":"The Tomorrow War",
+        "img":"https://m.media-amazon.com/images/M/MV5BNTI2YTI0MWEtNGQ4OS00ODIzLWE1MWEtZGJiN2E3ZmM1OWI1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+        "description":"When a group of time travellers from the future tell people about a war they are fighting with aliens, Dan, a school teacher, decides to help them win it in order to secure his daughter's future."
+    },
+    {
+        "id":4,
+        "title":"Stowaway (2021)",
+        "img":"https://m.media-amazon.com/images/M/MV5BYjNkZWQ0OGItYjYyNC00Y2Q4LWI1MzAtZmE2ODM4NWM4YmQwXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+        "description":"A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board."
+    },
+    {
+        "id":5,
+        "title":"Extinction (2018)",
+        "img":"https://m.media-amazon.com/images/M/MV5BMTU5OTYzMzcwOF5BMl5BanBnXkFtZTgwNTkzMzk4NTM@._V1_.jpg",
+        "description":"A man's home life starts to suffer when he has recurring nightmares about a destructive and unknown force. He must soon find the strength to save his wife and two daughters when extraterrestrials launch a devastating attack on the planet."
+    },
+    {
+        "id":6,
+        "title":"Venom",
+        "img":"https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/venom_onesheet_1400x2100_rated.png?itok=0tO6umMg",
+        "description":"While trying to take down Carlton, the CEO of Life Foundation, Eddie, a journalist, investigates experiments of human trials. Unwittingly, he gets merged with a symbiotic alien with lethal abilities."
+    }
+   
+]
+
+// {
+//     "id":7
+// },
+// {
+//     "id":8
+// },
+// {
+//     "id":9
+// },
+// {
+//     "id":10
+// },
+// {
+//     "id":11
+// },
+// {
+//     "id":12
+// },
+// {
+//     "id":13
+// },
+// {
+//     "id":14
+// },
+// {
+//     "id":15
+// }

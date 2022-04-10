@@ -34,34 +34,26 @@
         "title":"Venom",
         "img":"https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/venom_onesheet_1400x2100_rated.png?itok=0tO6umMg",
         "description":"While trying to take down Carlton, the CEO of Life Foundation, Eddie, a journalist, investigates experiments of human trials. Unwittingly, he gets merged with a symbiotic alien with lethal abilities."
-    }
+    },
    
+    {
+        "id":7,
+        "title":"Outside the Wire (2021)",
+        "img":"https://m.media-amazon.com/images/M/MV5BNmM2MWQ0NzktNzU0OS00MjYzLTkxNDYtMzliNTA5ZmNkMmZlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "description":"Outside the Wire is a 2021 American science fiction action film directed by Mikael Håfström. It stars Anthony Mackie (who also produced) as an android officer who works with a drone pilot (Damson Idris) to stop a global catastrophe. Emily Beecham, Michael Kelly, and Pilou Asbæk also star. The film was released by Netflix on January 15, 2021, and received mixed reviews from critics"
+    },
+    {
+        "id":8,
+        "title":"Awake (2021)",
+        "img":"https://m.media-amazon.com/images/M/MV5BNzZlYTI0NDYtODg4YS00YjUxLTgwZjItY2NhMDE0MjQ2ZTA5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_FMjpg_UX1000_.jpg",
+        "description":"Global hysteria ensues after a mysterious catastrophe wipes out all electronics and takes away humanity's ability to sleep. Scientists race against the clock to find a cure for the unexplained insomnia before its fatal effects eliminate the human race."
+    },
+
+    {
+        "id":9,
+        "title":"Love & Monsters (2020)",
+        "img":"https://m.media-amazon.com/images/M/MV5BYWVkMWEyMDUtZTVmOC00MTYxLWE1ZTUtNjk4M2IzMjY2OTIxXkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_.jpg",
+        "description":"Forced to live underground after an apocalypse, a boy decides to venture out of his colony in order to reunite with his girlfriend"
+    }
 ]
 
-// {
-//     "id":7
-// },
-// {
-//     "id":8
-// },
-// {
-//     "id":9
-// },
-// {
-//     "id":10
-// },
-// {
-//     "id":11
-// },
-// {
-//     "id":12
-// },
-// {
-//     "id":13
-// },
-// {
-//     "id":14
-// },
-// {
-//     "id":15
-// }

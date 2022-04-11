@@ -4,6 +4,7 @@ import { BrowserRouter as Routes,} from 'react-router-dom';
 import { Switch } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 import Home from './Pages/Home/Home/Home';
+import Movies from './Pages/Movies/Movies/Movies';
 
 function App() {
   return (
@@ -15,6 +16,9 @@ function App() {
           </Route>
           <Route  path='/home'>
             <Home></Home>
+          </Route>
+          <Route path='/movies'>
+            <Movies></Movies>
           </Route>
         </Switch>
       </Routes>      

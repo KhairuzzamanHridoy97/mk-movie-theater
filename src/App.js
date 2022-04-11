@@ -5,6 +5,7 @@ import { Switch } from 'react-router-dom';
 import { Route } from 'react-router-dom';
 import Home from './Pages/Home/Home/Home';
 import Movies from './Pages/Movies/Movies/Movies';
+import NotFound from './Pages/NotFound/NotFound';
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
           </Route>
           <Route path='/movies'>
             <Movies></Movies>
+          </Route>
+          <Route path='*'>
+              <NotFound></NotFound>
           </Route>
         </Switch>
       </Routes>      

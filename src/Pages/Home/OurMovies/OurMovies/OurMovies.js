@@ -15,7 +15,7 @@ const OurMovies = () => {
         <Container>
 
             <h2 className="text-primary my-5">Our Movies</h2>
-            <Row xs={1} md={2} className="g-4">
+            <Row xs={1}  md={2} className="g-4">
             {
                 ourMovies.slice(0,6).map(
                     ourMovie=> <OurMovie

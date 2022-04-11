@@ -1,10 +1,28 @@
+// import { Card, CardContent, CardMedia, Grid,Button, Typography } from '@mui/material';
 import React from 'react';
+import { Col,Card } from 'react-bootstrap';
 
-const Movie = () => {
+
+const Movie = ({movie}) => {
+    const{title,img,description,id,watchFee}=movie;
     return (
-        <div>
-            <h3>The movie</h3>
-        </div>
+        <>
+           <Col>
+             <Card>
+               <Card.Img variant="top" src={img} style={{height:'50%'}} />
+                 <Card.Body>
+                <Card.Title>{title}</Card.Title>
+                <Card.Text>
+                  {description}
+                </Card.Text>
+                <Card.Text className="text-danger">
+                  WatchFee: {watchFee} USD
+                </Card.Text>
+                <button className='btn btn-primary'>Book</button>
+                </Card.Body>
+            </Card>
+   </Col>
+        </>
     );
 };
 

@@ -8,7 +8,7 @@ const OurMovie = ({ourMovie}) => {
         <>
        <Col>
           <Card>
-               <Card.Img variant="top" src={img} style={{height:'250px',width:"562px"}} />              
+               <Card.Img variant="top" src={img} />              
                  <Card.Body>
                 <Card.Title>{title}</Card.Title>
                 <Card.Text>
